@@ -18,7 +18,7 @@ body {
     color: #2E2F42
 }
 
-.nav-list-head .nav-list-head-part {
+.nav-list-head .nav-list-head-a {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -26,11 +26,11 @@ body {
     letter-spacing: 0.02em;
 }
 
-.nav-list-head .nav-list-head-part:hover {
+.nav-list-head .nav-list-head-a:hover {
     color: #404BBF;
 }
 
-.nav-list-head .nav-list-head-part:focus {
+.nav-list-head .nav-list-head-a:focus {
     color: #404BBF;
 }
 
